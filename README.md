@@ -110,5 +110,6 @@ Based on the analysis, the Random Forest model outperforms the Decision Tree and
 
 ## Conclusions and Recommendations
 1.Focus on Effective Management: Promote and support management practices that correlate with higher well functionality.
-
 2.Sustainable Payment Models: Encourage payment methods that ensure funds for regular maintenance, potentially improving functionality rates.
+3.Improve Water Quality: Invest in initiatives to enhance water quality, as it impacts well functionality.
+4.Targeted Interventions: Implement region-specific strategies to address local issues and improve well functionality across different areas.
