@@ -77,24 +77,24 @@ Insight: There are more functional wells compared to non-functional ones.
 
 
 #### 2. Distribution of Regions (region)
-https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(9).png
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(9).png)
 
 This plot displays the number of wells in each region. It helps understand the geographical distribution of wells.
 
 Insight : The regions with the highest number of wells are shown, with Iringa, Manyara, and Tanga being prominent
 
 ### Distribution of Management Types
-https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(10).png
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(10).png)
 
 Some management types are more prevalent, potentially impacting the functionality rates of the wells they oversee.
 
 ### Distribution of payment types
-https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(11).png
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(11).png)
 
 This plot shows the distribution of payment types used for accessing the wells. Different payment models might influence the maintenance and operational status of the wells.
 
 ### 5.Well Status by Water Quality
-https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(12).png
+(![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(12).png)
 
 The plot explores the relationship between water quality and well status. Wells providing high-quality water might be better maintained, affecting their functionality.
 
