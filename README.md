@@ -68,10 +68,9 @@ link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water
 40. **status_group**: The target variable, important for analysis.
 
     ## EXPLORATORY DATA  ANALYSIS
-### a) Univariate Analysis
 
 #### 1. Distribution of Well Status (status_group)
-https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(8).png
+![Genre Rating Relationship](https://github.com/dennis2440/dsc-phase-3-project/blob/main/files/download%20(8).png)
 
 This plot shows the count of wells categorized by their status. It indicates the proportion of functional and non-functional wells.
 Insight: There are more functional wells compared to non-functional ones.
